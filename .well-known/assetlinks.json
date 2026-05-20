@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.zihinussu.app",
+      "sha256_cert_fingerprints":
+        ["A7:FA:2A:5D:55:A9:58:9F:AC:AD:F0:06:E7:A9:26:44:73:3A:C2:A1:62:EF:8A:56:BE:1D:72:06:60:41:5E:64"]
+    }
+  }
+]
